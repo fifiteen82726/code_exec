@@ -27,6 +27,8 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem "pry-rails", "~> 0.3.4"
 gem "pry-byebug", "~> 3.5.0"
+gem 'jquery-rails', '~> 4.2.1'
+gem 'bootstrap', '~> 4.1.3'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
